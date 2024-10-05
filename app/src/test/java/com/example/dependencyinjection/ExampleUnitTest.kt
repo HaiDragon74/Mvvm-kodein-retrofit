@@ -1,4 +1,4 @@
-package com.example.dependencykoin
+package com.example.dependencyinjection
 
 import org.junit.Test
 

@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Dependency (koin)"
+rootProject.name = "dependency injection"
 include(":app")
- 
